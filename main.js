@@ -1,4 +1,3 @@
-import Geometry from "/Users/GTorr/OneDrive/Desktop/modules/createGeometry";
 import DisableControls from "/Users/GTorr/OneDrive/Desktop/modules/disableControls";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
